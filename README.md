@@ -27,7 +27,7 @@ Tugas ini bertujuan untuk memperdalam pemahaman dan keterampilan praktis mahasis
 |---|---|---|---|
 | **Milestone 1** | **Chapter 1 – 5** | 10 Oktober 2026 (23:59) |  **SELESAI (100%)** |
 | **Milestone 2** | **Chapter 6 – 8** | 17 Oktober 2026 (23:59) |  **SELESAI (100%)** |
-| **Full Completion** | **Chapter 9 – 13** | Bonus Enrichment |  **SELESAI (100%)** |
+| **Milestone 3** | **Chapter 9 – 13** | 24 Oktober 2026 (23:59) |  **SELESAI (100%)** |
 
 Seluruh **13 Bab** telah direproduksi secara komprehensif, dilengkapi penurunan rumus matematis, penjelasan intuisi teoritis, visualisasi, dan ringkasan di setiap notebook.
 
